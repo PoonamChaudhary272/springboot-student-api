@@ -6,7 +6,7 @@ A beginner-level Spring Boot project that demonstrates how to build REST APIs us
 - Add a student
 - View all students
 - View a student by ID
-- Delete a student
+- Delete a student.
 
 The project uses in-memory storage (ArrayList) and does not use a database.
 
