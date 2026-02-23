@@ -31,6 +31,4 @@ The project uses in-memory storage (ArrayList) and does not use a database.
 3. Run `StudentapiApplication.java`
 4. Server starts on port 8080
 
-## How to test
-Use Postman to test the APIs.
 
